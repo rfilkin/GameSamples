@@ -9,10 +9,10 @@ My senior project game, Kat's Yarn, can be downloaded from itch.io here: https:/
 Additional info about my games:
 
 *	“A Knight’s Honor”
-   * 2D action game with a focus on narrative
-   * Engine: Scratch
-   * Playable in browser
-   *	Link: https://scratch.mit.edu/projects/49202930/ 
+  - 2D action game with a focus on narrative
+  - Engine: Scratch
+  - Playable in browser
+  -	Link: https://scratch.mit.edu/projects/49202930/ 
 
 *	“Inversion”
    *	2D puzzle-platformer game with a world-switching mechanic
