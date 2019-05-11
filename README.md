@@ -9,19 +9,19 @@ My senior project game, Kat's Yarn, can be downloaded from itch.io here: https:/
 Additional info about my games:
 
 *	“A Knight’s Honor”
-  * 2D action game with a focus on narrative
-  * Engine: Scratch
-  * Playable in browser
-  *	Link: https://scratch.mit.edu/projects/49202930/ 
+   * 2D action game with a focus on narrative
+   * Engine: Scratch
+   * Playable in browser
+   *	Link: https://scratch.mit.edu/projects/49202930/ 
 
 *	“Inversion”
-  *	2D puzzle-platformer game with a world-switching mechanic
-  *	Engine: Scratch
-  *	Playable in browser
-  *	Link: https://scratch.mit.edu/projects/51327928/ 
+   *	2D puzzle-platformer game with a world-switching mechanic
+   *	Engine: Scratch
+   *	Playable in browser
+   *	Link: https://scratch.mit.edu/projects/51327928/ 
 
 *	“Kat’s Yarn”
-  *	2D puzzle-platformer game with a focus on rotation around a planet
-  *	Engine: Unity
-  *	Available on Itch.io
-  *	Link: https://kersplosion.itch.io/kats-yarn 
+   *	2D puzzle-platformer game with a focus on rotation around a planet
+   *	Engine: Unity
+   *	Available on Itch.io
+   *	Link: https://kersplosion.itch.io/kats-yarn 
