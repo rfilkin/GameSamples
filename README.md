@@ -13,11 +13,13 @@ Additional info about my games:
   - Engine: Scratch
   - Playable in browser
   -	Link: https://scratch.mit.edu/projects/49202930/ 
+  
 “Inversion”
   - 2D puzzle-platformer game with a world-switching mechanic
   -	Engine: Scratch
   -	Playable in browser
   -	Link: https://scratch.mit.edu/projects/51327928/ 
+  
 “Kat’s Yarn”
    - 2D puzzle-platformer game with a focus on rotation around a planet
    - Engine: Unity
