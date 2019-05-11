@@ -8,7 +8,7 @@ My senior project game, Kat's Yarn, can be downloaded from itch.io here: https:/
 -------------------------------------
 Additional info about my games:
 
-*	“A Knight’s Honor”
+*	“A Knight’s Honor”:
   - 2D action game with a focus on narrative
   - Engine: Scratch
   - Playable in browser
